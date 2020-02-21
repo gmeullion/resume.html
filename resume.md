@@ -16,7 +16,6 @@
 
   <p> Gabriel Meullion is a student at the University of Miami.
   Broadcast Journalism Major and Interactive Media Minor. I like to spend time with friends and family. I have ability to perform under a minimum of supervision and demonstrate a high degree initiative and judgment. The ability to work independently and meet multiple deadlines, detail oriented, and reliable.  A self-starter and problem-solving skills.</p>
-•	
 <section>
 
 
@@ -40,6 +39,16 @@
 
 
   <h2>Work Experience</h2>
+<h3> Papa Murphy’s Pizza July 2016-September 2016</h3>
+
+<p><strong>Sales Associate</strong></p>
+  <ul>
+    <li> Prepare and assist with preparation of take-n-bake pizza product.</li>
+    <li> Operate cash register.</li>
+    <li> Preform opening and closing duties effectively/efficiently.</li>
+   <li> Contribute to the retail store by supporting daily business operations, product prep, stocking inventory, and processing customer transactions.</li>
+  </ul>
+
   <h3>Old Navy September- December 2016</h3>
 
 <p><strong> Sales Associate</strong></p>
@@ -57,6 +66,16 @@
     <li> Provide customer best experience to have them come back again.</li>
     <li> Contribute by supporting daily business operations and drive sales.</li>
   </ul>
+
+<h3> Receptionist August 2018-Present</h3>
+
+<p><strong> School of Communication Receptionist</strong></p>
+  <ul>
+    <li> Answer all incoming calls and take messages if needed.</li>
+    <li> Preform opening and closing duties effectively/efficiently.</li>
+   <li> Distribute mail in mailroom.</li>
+  </ul>
+
 
   <h2>Non-Professional Experience</h2>
   <h3> Mount Calvary Christian Center Children Ministry June 2011-August 2017</h3>
@@ -95,4 +114,3 @@
 </body>
 
 </html>
-
