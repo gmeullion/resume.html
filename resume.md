@@ -15,7 +15,7 @@
 
 <main>
 
-  <p> Currently a student at the University of Miami in the School of Communication as a
+  <p> Current student at the University of Miami in the School of Communication as a
   Broadcast Journalism Major and Advertising Minor. I like to spend time with friends and family. I have ability to perform under minimal supervision. I posses the ability to work independently as well as in groups and meet multiple deadline. I am detail oriented and reliable.</p>
 <section>
 
