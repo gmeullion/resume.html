@@ -31,7 +31,9 @@
 
 <h3> Bellevue College, Bellevue, WA 2015-2017 </h3>
    Undergraduate Student
-   
+     <ul>
+  <li>Associate in Arts and Science Transfer Degree</li>
+  </ul>
 <h3> University of Miami, Miami FL 2017-2020 </h3>
    Undergraduate Student
   <ul>
