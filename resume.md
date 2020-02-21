@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 
 <head>
-  <title> Resume </title>
+  <!--<title>Resume</title>-->
   <meta charset= "utf-8">
 </head>
 
@@ -16,7 +16,6 @@
   <p> Gabriel Meullion is a student at the University of Miami.
   Broadcast Journalism Major and Interactive Media Minor. I like to spend time with friends and family. I have ability to perform under a minimum of supervision and demonstrate a high degree initiative and judgment. The ability to work independently and meet multiple deadlines, detail oriented, and reliable.  A self-starter and problem-solving skills.</p>
 <section>
-
 
   <h2> Skills </h2>
 
@@ -35,7 +34,6 @@
   <li> Advertising Minor </li>
   </ul>
 </section>
-
 
   <h2>Work Experience</h2>
 <h3> Papa Murphy’s Pizza July 2016-September 2016</h3>
@@ -74,7 +72,6 @@
     <li> Preform opening and closing duties effectively/efficiently.</li>
    <li> Distribute mail in mailroom.</li>
   </ul>
-
 
   <h2>Non-Professional Experience</h2>
   <h3> Mount Calvary Christian Center Children Ministry June 2011-August 2017</h3>
