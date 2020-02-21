@@ -29,7 +29,10 @@
 
 <h2> Education </h2>
 
-<h3> University of Miami </h3>
+<h3> Bellevue College, Bellevue, WA 2015-2017 </h3>
+   Undergraduate Student
+   
+<h3> University of Miami, Miami FL 2017-2020 </h3>
    Undergraduate Student
   <ul>
   <li> Broadcast Journalism Major</li>
