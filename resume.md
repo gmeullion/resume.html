@@ -98,12 +98,12 @@
 </main>
 
 <footer>
-  <h3> <i>You can reach me at:</i> </h3>
+  <h3>You can reach me at:</h3>
     <ul>
-      <li> Email: mgm50@miami.Edu </li>
-      <li> Facebook: Gabriel Meullion</li>
+      <li>Email: mgm50@miami.edu</li>
+      <li>Facebook: Gabriel Meullion</li>
 <li> <address>
-  1570 Albenga Avenue
+  1527 Albenga Avenue
   Coral Gables, FL 33146
 </address>
 </li>
