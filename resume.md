@@ -16,7 +16,7 @@
 <main>
 
   <p> Currently a student at the University of Miami in the School of Communication as a
-  Broadcast Journalism Major and Advertising Minor. I like to spend time with friends and family. I have ability to perform under minimumal supervision and demonstrate a high degree initiative and judgment. The ability to work independently and meet multiple deadlines, detail oriented, and reliable.  A self-starter and problem-solving skills.</p>
+  Broadcast Journalism Major and Advertising Minor. I like to spend time with friends and family. I have ability to perform under minimal supervision. I posses the ability to work independently as well as in groups and meet multiple deadline. I am detail oriented and reliable.</p>
 <section>
 
   <h2> Skills </h2>
@@ -45,15 +45,15 @@
     <li> Prepare and assist with preparation of take-n-bake pizza product.</li>
     <li> Operate cash register.</li>
     <li> Preform opening and closing duties effectively/efficiently.</li>
-   <li> Contribute to the retail store by supporting daily business operations, product prep, stocking inventory, and processing customer transactions.</li>
+   <li> Contribute to the daily business operations, product prep, stocking inventory, and processing customer transactions.</li>
   </ul>
 
-  <h3>Old Navy September- December 2016</h3>
+  <h3>Old Navy September-December 2016</h3>
 
 <p><strong> Sales Associate</strong></p>
 <ul>
   <li>Check customer out for merchandise they purchase, issue refunds, count money in cash drawer at beginning of shift to ensure that amounts are correct and there is adequate change.</li>
-  <li> Educate the customers about the benefits of the Old Navy Card and assisting customer.</li>
+  <li> Educate the customers about the benefits of the Old Navy Card and assisting customers.</li>
   <li> Contribute by supporting daily business operations and drive sales.</li>
 </ul>
 
@@ -63,12 +63,13 @@
   <ul>
     <li> Check customer out for merchandise they purchase, issue refunds, count money in cash drawer at beginning of shift to ensure that amounts are correct and there is adequate change.</li>
     <li> Provide customer best experience to have them come back again.</li>
+    <li> Train incoming employees.</li>
     <li> Contribute by supporting daily business operations and drive sales.</li>
   </ul>
 
 <h3> Receptionist August 2018-Present</h3>
 
-<p><strong> School of Communication Receptionist</strong></p>
+<p><strong>School of Communication Receptionist</strong></p>
   <ul>
     <li> Answer all incoming calls and take messages if needed.</li>
     <li> Preform opening and closing duties effectively/efficiently.</li>
