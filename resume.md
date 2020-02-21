@@ -79,7 +79,7 @@
   <h2>Non-Professional Experience</h2>
   <h3> Mount Calvary Christian Center Children Ministry June 2011-August 2017</h3>
 
-<p><strong>Teachers Assistant/Youth LEader</strong></p>
+<p><strong>Teachers Assistant/Youth Leader</strong></p>
 <ul>
   <li> Assist in operations support, maintaining files, and classroom setup.</li>
   <li> Assist with computer setup/login for children check in/out system.</li>
