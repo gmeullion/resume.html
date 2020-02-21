@@ -24,7 +24,8 @@
 <ol>
   <li> Adobe Premier </li>
   <li> Adobe Photoshop </li>
-  <li> Microsoft Word </li> 
+  <li> Microsoft Word </li>
+  <li> Microsoft Powerpoint </li>
 </ol>
 
 <h2> Education </h2>
