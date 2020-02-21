@@ -22,7 +22,7 @@
   <h2> Skills </h2>
 
 <ol>
-  <li> Adobe Premier </li>
+  <li> Adobe Premiere </li>
   <li> Adobe Photoshop </li>
   <li> Microsoft Word </li>
   <li> Microsoft Powerpoint </li>
