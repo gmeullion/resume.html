@@ -16,7 +16,7 @@
 <main>
 
   <p> Gabriel Meullion is a student at the University of Miami.
-  Broadcast Journalism Major and Interactive Media Minor. I like to spend time with friends and family. I have ability to perform under a minimum of supervision and demonstrate a high degree initiative and judgment. The ability to work independently and meet multiple deadlines, detail oriented, and reliable.  A self-starter and problem-solving skills.</p>
+  Broadcast Journalism Major and Advertising Minor. I like to spend time with friends and family. I have ability to perform under a minimum of supervision and demonstrate a high degree initiative and judgment. The ability to work independently and meet multiple deadlines, detail oriented, and reliable.  A self-starter and problem-solving skills.</p>
 <section>
 
   <h2> Skills </h2>
