@@ -9,7 +9,7 @@
     <header>
 <h1> Gabriel Meullion </h1>
       
-<img src="headshot.JPG" alt="headshot" />
+<img src="headshot.jpg" alt="headshot" />
 
 </header>
 
