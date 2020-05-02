@@ -1,268 +1,116 @@
 body {
- 
-font-family:"NotoSerifJP-Medium""Cormorant-Medium", serif;
-   
+font-family:"NotoSerifJP-Medium""Cormorant-Medium", serif; 
 font-size: 30px;
-
 font-weight: 500;
-
 font-weight: 500;
-
 color: #222;
-
 }
 
-
-
 a:link {
-  
 color: rgb(227,45,6);
-
 }
 
 a:visited {
-
 color: rgb(136,99,44)
-
 }
 
 hover{
   color: 
 rgb(127,13,13)
-
 }
 
 header{
-  
 font-size: 24px;
-
 }
 
 nav {
-  
 font-style: italic;
-
-#skills {
-  list-style-type:none;
-
-}
-
-nav {
-  
-font-style: italic;
-
-#education{
-  list-style-type:none;
-
-}
-
-nav {
-  
-font-style: italic;
-
-#workexperience{
-  list-style-type:none;
-
 }
 
 body{
-
 font-family: "NotoSerifJP-Medium""Cormorant-Medium", serif;
-
 font-size: 24px;
 
-
-
-
 #skills{
-
 background-color: #ccc;
-
 }
-
-
 
 #education{
 background-color: #ccc;
-
 }
-
-
 
 #work experience{
-
 background-color: #ccc;
-
 }
 
-
-
 #contact me{
-
 background-color: #ccc;
-
+}
+ 
 h1 {
-
 font-family:"NotoSerifJP-Medium", "CormorantGaramond-Medium", serif;
-
 font-size: 30px;
-
 font-weight: 500;
-
 font-weight: 500;
 
 }
-
 h2 {
-
 font-family:"NotoSerifJP-Medium", "CormorantGaramond-Medium", serif;
-
 font-size: 20px;
-
 font-weight: 500;
-
 font-weight: 500;
-
 }
 
-
-
-h3 {
-    
+h3 {  
 font-family:"NotoSerifJP-Medium", "CormorantGaramond-Medium", serif;
-
 font-style: italic;
-
 font-size: 15px;
-
 font-weight: 500;
 }
 
-body {
- 
-font-family:"NotoSerifJP-Medium""Cormorant-Medium", serif;
-   
-font-size: 30px;
-
-font-weight: 500;
-
-font-weight: 500;
-
-color: #222;
-
+img {
+  border: 1px solid #9D4EA8;
+  padding: 1.5em;
+  background-color: #713E89;
 }
 
-
-
-a:link {
-  
-color: rgb(227,45,6);
-
+main {
+  border: 0px solid #222;
+  padding: 2em;
 }
 
-a:visited {
-
-color: rgb(136,99,44)
-
+img {
+  display: block;
 }
 
-hover{
-  color: 
-rgb(127,13,13)
+footer ul {
+        list-style: none;
+        margin: 2;
+        padding: 2;
+    }
 
+.wrapper {
+  display: grid;
+  grid-gap: 0.5px;
 }
 
-header{
-  
-font-size: 24px;
-
+.wrapper > * {
+  grid-column: col-start / span 12;
 }
 
-nav {
-  
-font-style: italic;
-
-#skills {
-  list-style-type:none;
-
-}
-
-nav {
-  
-font-style: italic;
-
-#education{
-  list-style-type:none;
-
-}
-
-nav {
-  
-font-style: italic;
-
-#workexperience{
-  list-style-type:none;
-
-}
-
-body{
-
-font-family: "NotoSerifJP-Medium""Cormorant-Medium", serif;
-
-font-size: 24px;
-
-
-
-
-#skills{
-
-background-color: #ccc;
-
-}
-
-
-
-#education{
-background-color: #ccc;
-
-}
-
-
-
-#work experience{
-
-background-color: #ccc;
-
-}
-
-
-
-#contact me{
-
-background-color: #ccc;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+@media (min-width: 700px) {
+  .main-aside {
+    grid-column: col-start / span 2;
+    grid-row: 2 / 4;
+  }
+  .content {
+    grid-column: col-start 3 / span 8;
+    grid-row: 2 / 4;
+  }
+  .img {
+    grid-column: span 2;
+    grid-row: 2/4;
+  }
+  .main-footer {
+    grid-column: col-start / span 12;
+  }
