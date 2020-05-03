@@ -2,7 +2,6 @@ body {
 font-family:"NotoSerifJP-Medium""Cormorant-Medium", serif; 
 font-size: 30px;
 font-weight: 500;
-font-weight: 500;
 color: #222;
 }
 
@@ -19,8 +18,8 @@ hover{
 rgb(127,13,13)
 }
 
-header, main, article, section{
- background-color: #fff;
+header, main, article, section, contact me{
+ background-color: #C5C5C4;
 }
 
 header{
@@ -34,48 +33,50 @@ font-style: italic;
 body{
 font-family: "NotoSerifJP-Medium""Cormorant-Medium", serif;
 font-size: 24px;
+}
 
 #skills{
-background-color: #ccc;
+background-color:#ccc;
 }
 
 #education{
-background-color: #ccc;
+background-color:#ccc;
 }
 
 #work experience{
-background-color: #ccc;
+background-color:#ccc;
 }
 
 #contact me{
-background-color: #ccc;
+background-color:#ccc;
 }
  
 h1 {
 font-family:"NotoSerifJP-Medium", "CormorantGaramond-Medium", serif;
-font-size: 30px;
+font-size: 40px;
 font-weight: 500;
-font-weight: 500;
-
 }
+
 h2 {
 font-family:"NotoSerifJP-Medium", "CormorantGaramond-Medium", serif;
-font-size: 20px;
-font-weight: 500;
+font-size: 30px;
 font-weight: 500;
 }
 
 h3 {  
 font-family:"NotoSerifJP-Medium", "CormorantGaramond-Medium", serif;
 font-style: italic;
-font-size: 15px;
-font-weight: 500;
+font-size: 22px;
 }
 
-img {
-  border: 1px solid #9D4EA8;
-  padding: 1.5em;
-  background-color: #713E89;
+li {  
+font-family:"NotoSerifJP-Medium", "CormorantGaramond-Medium", serif;
+font-size: 15px;
+}
+
+p {  
+font-family:"NotoSerifJP-Medium", "CormorantGaramond-Medium", serif;
+font-size: 20px;
 }
 
 main {
@@ -87,17 +88,17 @@ img {
   display: block;
 }
 
-footer ul
-    list-style: none;
-    margin: 2;
-    padding: 2;
- }
+img {
+	height: 300px;
+}
 
+img { 
+ float: right; 
+ padding: 0 20px 20px 0;
 .wrapper {
   display: grid;
   grid-gap: 0.5px;
 }
-
 .wrapper > * {
   grid-column: col-start / span 12;
 }
